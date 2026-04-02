@@ -1,6 +1,6 @@
 # first-html-project
 
-02/04/2026
+02/04/2026:
 I have uploaded my first HTML project to Github which is available online
 
 https://funnelwebtaipan.github.io/first-html-project/
